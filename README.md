@@ -1,3 +1,5 @@
 # FUOWEE2IGHOHYLN20160613
 arduino_RFID
-one part of wsn final project
+There are two parts in this project.
+one is Linkit ONE file
+the other is arduino file
